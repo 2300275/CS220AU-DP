@@ -9,11 +9,11 @@ GitHub repository URL: https://2300275.github.io/CS220AU-DP/
 I have ensured that:
 
 - [x] my GitHub username matches my student number
-- [ ] my repository is named 'CS220AU-DP'
+- [x] my repository is named 'CS220AU-DP'
 
 ### Website
 - [ ] I addressed my research question [according to my assignment brief](https://navigatingthedigitalworld.com/docs/cs220au)
-- [ ] I have provided a URL to my website in my repository's sidebar
+- [x] I have provided a URL to my website in my repository's sidebar
 
 ### Self- and peer-assessment
 In the `assessment.md` file:
