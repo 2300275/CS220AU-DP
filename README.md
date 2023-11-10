@@ -24,8 +24,8 @@ Instructions on using this GitHub repository as a template for your assignment w
 ## Tasks
 1. Get a better understanding of why settihg up my own website could be benefitial for me could develop my professinal identity.
 2. Find a narrower focus in my topic
-3. 
-4. 
+3. Find some journal articles and news to read and understand the topic
+4. Find some attractive and professional images and videos for appearance and explanations
 5.  
 
 ## Useful Resources  
@@ -38,7 +38,7 @@ Instructions on using this GitHub repository as a template for your assignment w
 - 2023-10-13 I went to the introduction class and the week two seminar where Kris explained the assignment brief and introduced us to the visitor and resident method for us to analyse our engagement with the Web with.
   - 2023-10-27 Selected the topic about Hong Kong culture survival threat regarding to China's cultural assimilation, discussed with Kris with potential directions, researches should be neutral and not to be bias
   - 2023-11-02 Review a few journals that related to my topic of Chinese culture, found out methods of China culture expansion such as Confucius Institute and found out Hong Kong adopted policy of biliteracy and trilingualism which are Chinese, English literature and Cantonese, Mandarin, English language. It seems Cantonese is still the first language so a different direction of research is needed. Possible approaches: Moral and National Education controversy, freedom of speech, government under pressure to speed up assimilation  
-  -  
+  - 2023-11-09 Found some more articles and youtubes about Chinese internet, rather than the topic be culture, it is more about way of life. Also some writing.
   - 
   
   
