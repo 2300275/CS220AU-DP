@@ -4,6 +4,9 @@ introcution, main body, conclusion, reference
 ## Rising China: increase influences of Chinese tech companies  
 In recent years, Chinese social media and e-commerce platforms such as Tiktok and Temu have raised a lot of concern to the public due to their policies threatening the cybersecurity of individuals and even national security. 
 
+[This](assessement.md) assesment file  
+and [This](https://navigatingthedigitalworld.com) lecture web  
+
 ## Hong Kong: Frontline of China’s internet interference  
 Hong Kong is a unique location that inherited democratic system and ideology as the United Kingdom’s colony before 1997. It is one of the few areas in China territory that is not included inside China’s Great FireWall that has limits of speech and heavy surveillance. 
 
