@@ -1,6 +1,6 @@
 # Will China’s internet culture assimilation diminishes Hong Kong's culture?  
 
-introcution, main body  
+introcution, main body, conclusion, reference  
 ## Rising China: increase influences of Chinese tech companies  
 In recent years, Chinese social media and e-commerce platforms such as Tiktok and Temu have raised a lot of concern to the public due to their policies threatening the cybersecurity of individuals and even national security. 
 
