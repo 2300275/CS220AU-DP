@@ -41,6 +41,8 @@ Enjoy domestic products with low price
 
 
 ![Plain VR map](assets/img/vr-map-plain.svg)
+![demo image](assets/img/matthew-guay-Q7wDdmgCBFg-unsplash.jpg)
+
 
 Below you see an example of embedding an image that is found in another repository:
 
