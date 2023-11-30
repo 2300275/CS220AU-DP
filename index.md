@@ -10,23 +10,9 @@ and [This](https://navigatingthedigitalworld.com) lecture web
 ## Hong Kong: Frontline of China’s internet interference  
 Hong Kong is a unique location that inherited democratic system and ideology as the United Kingdom’s colony before 1997. It is one of the few areas in China territory that is not included inside China’s Great FireWall that has limits of speech and heavy surveillance. 
 
-<a href="https://www.youtube.com/watch?v=ajR9J9eoq34&ab_channel=SouthChinaMorningPost" target="_blank">
- <img src="http://img.youtube.com/vi/ajR9J9eoq34/mqdefault.jpg" alt="Watch the video" width="560" height="315" border="10" />
-</a>  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6_fNGTGPuVs?si=PzeZh6Jcn2ahecPR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-
-
-
-https://gist.github.com/bitsurgeon/acd769ae3236c48a433e0acb11784c2e  
-
-iframe width="560" height="315" src="https://www.youtube.com/embed/lfPJ7Tz4JGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ajR9J9eoq34?si=hJQBMb5zhjUqFEIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 {br}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lfPJ7Tz4JGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-{br}
 Therefore, the environment of Hong Kong’s internet was the same as western nations that enjoyed a high degree of freedom of speech. This resulted in internet culture that is a mixture of Chinese culture with the usage of western online platforms including Facebook, Instagram.  
 
 Before Chinese tech giants stepped into the global market, Hong Kong was their main semi-foreign audience. Taobao was a successful shopping platform which  
