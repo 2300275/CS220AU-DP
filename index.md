@@ -47,8 +47,13 @@ Promote hatred and hostile environment
 Hong Kong national security law  
 Invaded Hong Kong’s internet environment  
 
+Changing Political Economy of the Hong Kong Media  
+https://journals.openedition.org/chinaperspectives/8009  
+Control the media, control in crowd  
+
+
 ## The crisis
-As the portion of Chinese apps used greadully increasing of the users internet activities, there are great chance of 
+As the portion of Chinese apps gradully increasing for the users internet usage, there are greater chance of surveillance and even manipulation. 
 
 # Conclusion
 
