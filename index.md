@@ -1,11 +1,18 @@
 # Will China’s internet culture assimilation diminishes Hong Kong's culture?  
-
-introcution, main body, conclusion, reference  
-## Rising China: increase influences of Chinese tech companies  
-In recent years, Chinese social media and e-commerce platforms such as Tiktok and Temu have raised a lot of concern to the public due to their policies threatening the cybersecurity of individuals and even national security. 
 https://quillbot.com/grammar-check  
 [This](assessement.md) assesment file  
-and [This](https://navigatingthedigitalworld.com) lecture web  
+and [This](https://navigatingthedigitalworld.com) lecture web 
+introcution, main body, conclusion, reference  
+## Rising China: increase influences of Chinese tech companies  
+Replacing of local of western tech companies
+Why eBay lost to TaoBao in China: the Glocal advantage
+https://dl.acm.org/doi/abs/10.1145/1435417.1435450
+(Maybe merge this two together as a introduction?)  
+## Concerns
+In recent years, Chinese social media and e-commerce platforms such as Tiktok and Temu have raised a lot of concern to the public due to their policies threatening the cybersecurity of individuals and even national security.  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pzPxidiBNJQ?si=f1LBtDb3P1jebIsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{br}
+
 
 ## Hong Kong: Frontline of China’s internet interference  
 Hong Kong is a unique location that inherited democratic system and ideology as the United Kingdom’s colony before 1997. It is one of the few areas in China territory that is not included inside China’s Great FireWall that has limits of speech and heavy surveillance. 
@@ -23,8 +30,27 @@ GOOD THINGS
 
 Enjoy domestic products with low price  
 
+HOWEVER  
+
+Introduce the ‘taboo’ of mainland China  
+such as 2019 protest, disappearance of  
+
+internet denunciation rallies  
+‘5 cents’--pro China policy, hostility towards western and hong kong leftist  
+Promote hatred and hostile environment  
+
+‘give up’ culture  
+‘bai lan’ “lying flat”  
 
 
+2.3freedom of speech restriction  
+Hong Kong national security law  
+Invaded Hong Kong’s internet environment  
+
+## The crisis
+As the portion of Chinese apps used greadully increasing of the users internet activities, there are great chance of 
+
+# Conclusion
 
 ![Plain VR map](assets/img/vr-map-plain.svg)
 ![demo image](assets/img/matthew-guay-Q7wDdmgCBFg-unsplash.jpg)
