@@ -12,13 +12,13 @@ I have ensured that:
 - [x] my repository is named 'CS220AU-DP'
 
 ### Website
-- [ ] I addressed my research question [according to my assignment brief](https://navigatingthedigitalworld.com/docs/cs220au)
+- [x] I addressed my research question [according to my assignment brief](https://navigatingthedigitalworld.com/docs/cs220au)
 - [x] I have provided a URL to my website in my repository's sidebar
 
 ### Self- and peer-assessment
 In the `assessment.md` file:
 
-- [ ] I have reviewed the marking rubric
+- [x] I have reviewed the marking rubric
 - [ ] I completed my self-assessment table and summarized my progress in around a 250-word paragraph
 - [ ] I filled out my peer-assessment table and added around 250-word feedback provided by a classmate in my group
 - [ ] I have provided feedback for at least one student in my group after reviewing the marking rubric
