@@ -1,3 +1,4 @@
+![demo image](assets/img/matthew-guay-Q7wDdmgCBFg-unsplash.jpg)
 # Will China’s internet culture assimilation diminishes Hong Kong's culture?  
 https://quillbot.com/grammar-check  
 [This](assessement.md) assesment file  
@@ -73,7 +74,7 @@ Whether it is in good intention or not, it will affect the way of life of everyo
 # Conclusion
 
 ![Plain VR map](assets/img/vr-map-plain.svg)
-![demo image](assets/img/matthew-guay-Q7wDdmgCBFg-unsplash.jpg)
+
 
 
 Below you see an example of embedding an image that is found in another repository:
