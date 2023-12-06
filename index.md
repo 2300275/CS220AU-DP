@@ -1,4 +1,6 @@
 ![demo image](assets/img/matthew-guay-Q7wDdmgCBFg-unsplash.jpg)
+Keywords: digital identities, existential risks, China, The Great Firewall, way of life, censorship, surveillance
+
 # Will China’s internet culture assimilation diminishes Hong Kong's culture?  
 https://quillbot.com/grammar-check  
 [This](assessement.md) assesment file  
