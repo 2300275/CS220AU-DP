@@ -67,9 +67,8 @@ It is a controversal topic about whether Internet needs a total freedom environm
 However, the only important question is that can we trust China to harness the power of the internet and not exploit it? Google, Facebook are American companies and have very similar ethics and culture to all western civilizations. Although they technically have all the personal informations and algorithms, their objectives are mostly  promoting a products. But can we ensure China as a collectivism country that emphasize on stability rather than privacy is still a ongoing debate.  
 
 
-
-
 In an imaginative view, China's Internet Great Wall is out of bound and expanded to the home front of western nations. 
+![demo image](assets/img/Great_wall_of_china.jpg)
 https://inkcinct.com.au/index.php/2008/07/31/great-wall-of-china-today/  
 (Not yet decide what image to use)  
 Whether it is in good intention or not, it will affect the way of life of everyone
