@@ -2,9 +2,11 @@
 ![demo image](assets/img/matthew-guay-Q7wDdmgCBFg-unsplash.jpg)
 Keywords: digital identities, existential risks, China, The Great Firewall, way of life, censorship, surveillance
 ## Introduction
-In recent years, Chinese social media and e-commerce platforms such as Tiktok and Temu have gained a lot of popularity. Accoridng to Enrique Dans, Tiktok and Temu ranked the first and the sixth most downloaded apps which contributed to 50 million and 24 million downloads in September 2023. The popularity of Chinese apps have raised a lot of concern to the public due to their policies and usages may compromise the cybersecurity of individuals and even national security. Misinformation in Tiktok is extremely common as deepfake and editing technologies become easily accessible, with its 1.6 billion active users that may threaten 
+In recent years, Chinese social media and e-commerce platforms such as Tiktok and Temu have gained a lot of popularity. Accoridng to Enrique Dans, Tiktok and Temu ranked the first and the sixth most downloaded apps which contributed to 50 million and 24 million downloads in September 2023[^1]. The popularity of Chinese apps have raised a lot of concern to the public due to their policies and usages may compromise the cybersecurity of individuals and even national security. Misinformation in Tiktok is extremely common as deepfake and editing technologies become easily accessible, with its 1.6 billion active users the statement of 
 
 However, 
+
+
 I will investigate 
 
 
@@ -86,13 +88,12 @@ There are two kinds of option in this environment, one is to embrace and trust C
 
 
 
-##mark down  reference
-Here is a simple footnote[^1].
-
-A footnote can also have multiple lines[^2].
+Reference  
 
 [^1]: Enrique Dans 2023 Should we be worried about the popularity of Chinese apps in the West? Published in 
 [Medium](https://medium.com/enrique-dans/should-we-be-worried-about-the-popularity-of-chinese-apps-in-the-west-15f2035820f9#:~:text=AppFigures'%20global%20ranking%20of%20the,holds%20the%20number%20one%20spot.)
+
+[^1]:https://www.nytimes.com/2022/11/04/technology/tiktok-deepfakes-disinformation.html
 [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
   This is a second line.
 
