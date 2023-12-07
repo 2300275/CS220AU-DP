@@ -90,10 +90,7 @@ There are two kinds of option in this environment, one is to embrace and trust C
 
 Reference  
 
-[^2]: Carol Xiaojuan Ou, Robert M. Davison Technical opinion:Why eBay lost to TaoBao in China: the Glocal advantage Published in [Communications of the ACM, Volume 52, Issue 1](https://doi.org/10.1145/1435417.1435450)
-
-
-https://dl.acm.org/doi/abs/10.1145/1435417.1435450
+[^1]: Carol Xiaojuan Ou, Robert M. Davison Technical opinion:Why eBay lost to TaoBao in China: the Glocal advantage Published in [Communications of the ACM, Volume 52, Issue 1](https://doi.org/10.1145/1435417.1435450)
 
 [^2]: Enrique Dans 2023 Should we be worried about the popularity of Chinese apps in the West? Published in 
 [Medium](https://medium.com/enrique-dans/should-we-be-worried-about-the-popularity-of-chinese-apps-in-the-west-15f2035820f9#:~:text=AppFigures'%20global%20ranking%20of%20the,holds%20the%20number%20one%20spot.)
