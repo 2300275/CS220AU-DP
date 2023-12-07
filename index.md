@@ -1,7 +1,7 @@
 # Will China’s internet culture assimilation diminishes Hong Kong's culture?  
 ![demo image](assets/img/matthew-guay-Q7wDdmgCBFg-unsplash.jpg)
 Keywords: digital identities, existential risks, China, The Great Firewall, way of life, censorship, surveillance
-# Introduction
+## Introduction
 In recent years, Chinese social media and e-commerce platforms such as Tiktok and Temu have gained a lot of popularity 
 have raised a lot of concern to the public due to their policies threatening the cybersecurity of individuals and even national security.  
 
@@ -10,12 +10,12 @@ https://quillbot.com/grammar-check
 [This](assessement.md) assesment file  
 and [This](https://navigatingthedigitalworld.com) lecture web 
 introcution, main body, conclusion, reference  
-## Rising China: increase influences of Chinese tech companies  
+### Rising China: increase influences of Chinese tech companies  
 Replacing of local of western tech companies
 Why eBay lost to TaoBao in China: the Glocal advantage
 https://dl.acm.org/doi/abs/10.1145/1435417.1435450
 (Maybe merge this two together as a introduction?)  
-## Concerns
+### Concerns
 In recent years, Chinese social media and e-commerce platforms such as Tiktok and Temu have raised a lot of concern to the public due to their policies threatening the cybersecurity of individuals and even national security.  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pzPxidiBNJQ?si=f1LBtDb3P1jebIsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 {br}
