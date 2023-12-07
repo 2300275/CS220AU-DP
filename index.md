@@ -12,9 +12,8 @@ I will investigate
 
 
 https://quillbot.com/grammar-check  
-[This](assessement.md) assesment file  
-and [This](https://navigatingthedigitalworld.com) lecture web 
-introcution, main body, conclusion, reference  
+## Main body
+  
 ### Rising China: increase influences of Chinese tech companies  
 Replacing of local of western tech companies
 Why eBay lost to TaoBao in China: the Glocal advantage
@@ -30,7 +29,7 @@ https://dl.acm.org/doi/abs/10.1145/1435417.1435450
 {br}
 
 
-## Hong Kong: Frontline of China’s internet interference  
+### Hong Kong: Frontline of China’s internet interference  
 Hong Kong is a unique location that inherited democratic system and ideology as the United Kingdom’s colony before 1997. It is one of the few areas in China territory that is not included inside China’s Great FireWall that has limits of speech and heavy surveillance. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ajR9J9eoq34?si=hJQBMb5zhjUqFEIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -68,7 +67,7 @@ https://journals.openedition.org/chinaperspectives/8009
 Control the media, control in crowd  
 
 
-## The crisis
+### The crisis
 As the portion of Chinese apps gradully increasing for the users internet usage, there are greater chance of surveillance and even manipulation. https://www.theguardian.com/world/2023/sep/28/chinas-manipulation-of-media-threatens-global-freedoms-says-us-report  
 
 It is a controversal topic about whether Internet needs a total freedom environment or a strict one like China's. In recent years, we can see how the internet is used to spread hate and misinformation such as antisemitism. Even though the controlled China's internet and its apps are in heavy censorship and surveillance, the environment seems to be more peaceful or at least one that have unified point of view.  
@@ -84,11 +83,11 @@ There are two kinds of option in this environment, one is to embrace and trust C
 
 
 
-# Conclusion
+## Conclusion
 
 
 
-Reference  
+##Reference  
 
 [^1]: Carol Xiaojuan Ou, Robert M. Davison Technical opinion:Why eBay lost to TaoBao in China: the Glocal advantage Published in [Communications of the ACM, Volume 52, Issue 1](https://doi.org/10.1145/1435417.1435450)
 
