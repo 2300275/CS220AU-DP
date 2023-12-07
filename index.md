@@ -1,5 +1,8 @@
 ![demo image](assets/img/matthew-guay-Q7wDdmgCBFg-unsplash.jpg)
 Keywords: digital identities, existential risks, China, The Great Firewall, way of life, censorship, surveillance
+# Introduction
+In recent years, Chinese social media and e-commerce platforms such as Tiktok and Temu have gained a lot of popularity 
+have raised a lot of concern to the public due to their policies threatening the cybersecurity of individuals and even national security.  
 
 # Will China’s internet culture assimilation diminishes Hong Kong's culture?  
 https://quillbot.com/grammar-check  
