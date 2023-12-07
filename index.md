@@ -92,7 +92,7 @@ Here is a simple footnote[^1].
 A footnote can also have multiple lines[^2].
 
 [^1]: Enrique Dans 2023 Should we be worried about the popularity of Chinese apps in the West? Published in 
-[https://medium.com/enrique-dans/should-we-be-worried-about-the-popularity-of-chinese-apps-in-the-west-15f2035820f9#:~:text=AppFigures'%20global%20ranking%20of%20the,holds%20the%20number%20one%20spot.]
+[Medium](https://medium.com/enrique-dans/should-we-be-worried-about-the-popularity-of-chinese-apps-in-the-west-15f2035820f9#:~:text=AppFigures'%20global%20ranking%20of%20the,holds%20the%20number%20one%20spot.)
 [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
   This is a second line.
 
