@@ -79,22 +79,6 @@ Whether it is in good intention or not, it will affect the way of life of everyo
 
 # Conclusion
 
-![Plain VR map](assets/img/vr-map-plain.svg)
-
-
-
-Below you see an example of embedding an image that is found in another repository:
-
-![](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-chien.jpg). 
-
-## Embedding video players
-
-<iframe width="800" height="315" src="https://www.youtube.com/embed/lfPJ7Tz4JGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## More examples
-Make sure you check out the [Markdown language](https://guides.github.com/features/mastering-markdown/) guide. 
-
-
 
 
 ##mark down  reference
