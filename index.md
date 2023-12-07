@@ -1,27 +1,16 @@
-# Will China’s internet culture assimilation diminishes Hong Kong's culture?  
+# Will China’s internet influence diminishes Our Way of Life?  
 ![demo image](assets/img/matthew-guay-Q7wDdmgCBFg-unsplash.jpg)
 Keywords: digital identities, existential risks, China, The Great Firewall, way of life, censorship, surveillance
 ## Introduction
 In recent years, Chinese social media and e-commerce platforms such as Tiktok and Temu have gained a lot of popularity. Although the international tech companies still occupied most of the environment of the internet, the influence of Chinese companies gradually increase. On the other hand, western companies like eBay failed to profit from China's users[^1]. According to Enrique, Tiktok and Temu ranked the first and the sixth most downloaded apps which contributed to 50 million and 24 million downloads in September 2023[^2]. The popularity of Chinese apps have raised a lot of concern to the public due to their policies and usages may compromise the cybersecurity of individuals and even national security. Misinformation in Tiktok is extremely common as deepfake and editing technologies become easily accessible, and with its 1.6 billion active users, the risk of manipulation of the public is a solid and imminent threat[^3].
 
- 
-
-
-I will investigate 
+I will investigate China's one of the territory that is excluded from China's Great Firewall and have full access to the internet, Hong Kong. After the 2019 protests, China has strengthened the control of Hong Kong which included the usage of the internet to stablise Hong Kong's civil unrest. As Hong Kong is a previous British colony, this can be a benchmark of what can happen if China uses the internet as a tool to fulfil its goal.
 
 
 
 https://quillbot.com/grammar-check  
 ## Main body
   
-### Rising China: increase influences of Chinese tech companies  
-Replacing of local of western tech companies
-Why eBay lost to TaoBao in China: the Glocal advantage
-https://dl.acm.org/doi/abs/10.1145/1435417.1435450
-(Maybe merge this two together as a introduction?)  
-
-
-
 
 
 
@@ -29,7 +18,7 @@ https://dl.acm.org/doi/abs/10.1145/1435417.1435450
 {br}
 
 
-### Hong Kong: Frontline of China’s internet interference  
+### Case study: Hong Kong as the frontline of China’s internet interference  
 Hong Kong is a unique location that inherited democratic system and ideology as the United Kingdom’s colony before 1997. It is one of the few areas in China territory that is not included inside China’s Great FireWall that has limits of speech and heavy surveillance. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ajR9J9eoq34?si=hJQBMb5zhjUqFEIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -67,7 +56,7 @@ https://journals.openedition.org/chinaperspectives/8009
 Control the media, control in crowd  
 
 
-### The crisis
+### Discussion
 As the portion of Chinese apps gradully increasing for the users internet usage, there are greater chance of surveillance and even manipulation. https://www.theguardian.com/world/2023/sep/28/chinas-manipulation-of-media-threatens-global-freedoms-says-us-report  
 
 It is a controversal topic about whether Internet needs a total freedom environment or a strict one like China's. In recent years, we can see how the internet is used to spread hate and misinformation such as antisemitism. Even though the controlled China's internet and its apps are in heavy censorship and surveillance, the environment seems to be more peaceful or at least one that have unified point of view.  
