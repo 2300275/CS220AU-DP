@@ -7,8 +7,7 @@ In recent years, Chinese social media and e-commerce platforms such as Tiktok an
 I will investigate China's one of the territory that is excluded from China's Great Firewall and have full access to the internet, Hong Kong. After the 2019 protests, China has strengthened the control of Hong Kong which included the usage of the internet to stablise Hong Kong's civil unrest. As Hong Kong is a previous British colony, this can be a benchmark of what can happen if China uses the internet as a tool to fulfil its goal.
 
 
-
-https://quillbot.com/grammar-check  
+  
 ## Main body
   
 
