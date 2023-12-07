@@ -4,7 +4,7 @@ Keywords: digital identities, existential risks, China, The Great Firewall, way 
 ## Introduction
 In recent years, Chinese social media and e-commerce platforms such as Tiktok and Temu have gained a lot of popularity. Accoridng to Enrique Dans, Tiktok and Temu ranked the first and the sixth most downloaded apps which contributed to 50 million and 24 million downloads in September 2023[^1]. The popularity of Chinese apps have raised a lot of concern to the public due to their policies and usages may compromise the cybersecurity of individuals and even national security. Misinformation in Tiktok is extremely common as deepfake and editing technologies become easily accessible, and with its 1.6 billion active users, the risk of manipulation of the public is a solid and imminent threat[^2].
 
-However, 
+However, the international tech companies still occupied most of the environment of the internet
 
 
 I will investigate 
