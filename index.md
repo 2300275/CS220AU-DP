@@ -2,8 +2,11 @@
 ![demo image](assets/img/matthew-guay-Q7wDdmgCBFg-unsplash.jpg)
 Keywords: digital identities, existential risks, China, The Great Firewall, way of life, censorship, surveillance
 ## Introduction
-In recent years, Chinese social media and e-commerce platforms such as Tiktok and Temu have gained a lot of popularity 
-have raised a lot of concern to the public due to their policies threatening the cybersecurity of individuals and even national security.  
+In recent years, Chinese social media and e-commerce platforms such as Tiktok and Temu have gained a lot of popularity. Accoridng to Enrique Dans, Tiktok and Temu ranked the first and the sixth most downloaded apps which contributed to 50 million and 24 million downloads in September 2023. The popularity of Chinese apps have raised a lot of concern to the public due to their policies and usages may compromise the cybersecurity of individuals and even national security. Misinformation in Tiktok is extremely common as deepfake and editing technologies become easily accessible, with its 1.6 billion active users that may threaten 
+
+However, 
+I will investigate 
+
 
 
 https://quillbot.com/grammar-check  
@@ -16,7 +19,7 @@ Why eBay lost to TaoBao in China: the Glocal advantage
 https://dl.acm.org/doi/abs/10.1145/1435417.1435450
 (Maybe merge this two together as a introduction?)  
 
-In recent years, Chinese social media and e-commerce platforms have raised a lot of concern to the public due to their policies and usages may compromise the cybersecurity of individuals and even national security. Accoridng to Enrique Dans, Tiktok and Temu ranked the first and the sixth most downloaded apps which contributed to 50 million and 24 million downloads in September 2023
+
 
 
 
