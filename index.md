@@ -15,8 +15,12 @@ Replacing of local of western tech companies
 Why eBay lost to TaoBao in China: the Glocal advantage
 https://dl.acm.org/doi/abs/10.1145/1435417.1435450
 (Maybe merge this two together as a introduction?)  
-### Concerns
-In recent years, Chinese social media and e-commerce platforms such as Tiktok and Temu have raised a lot of concern to the public due to their policies threatening the cybersecurity of individuals and even national security.  
+
+In recent years, Chinese social media and e-commerce platforms have raised a lot of concern to the public due to their policies and usages may compromise the cybersecurity of individuals and even national security. Accoridng to Enrique Dans, Tiktok and Temu ranked the first and the sixth most downloaded apps which contributed to 50 million and 24 million downloads in September 2023
+
+
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pzPxidiBNJQ?si=f1LBtDb3P1jebIsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 {br}
 
