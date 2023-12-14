@@ -26,11 +26,9 @@ Hong Kong is a unique location that inherited democratic system and ideology as 
 #### Freedom of choice
 After Taobao is founded in 2003, it is accessible to all Chinese-speaking regions and as a result Hong Kong became one of its customer base. After the implementation of Alipay, a electric payment app using QR code technology, Taobao defeated Ebay and became the largest online shopping platform in China [^5]. This allows Hong Kong people to enjoy domestic products from heavy machinary to toothbrush with a low cost and high accessibility.  
 
-However, the heavy reliant on Taobao has introduced the censorship of Mainland China to Hong Kong in the form of restricting the right to buy. During the 2014 Hong Kong protest, the umbrella has become a symbol of the pro- democratic movement and used as tool to conceal from surveillance. As a result, Taobao and Aliexpress refused to sell umbrellas to Hong Kong customers for the stabilization of Chinese authoritarian reign. [^6]
+However, the heavy reliant on Taobao has introduced the censorship of Mainland China to Hong Kong in the form of restricting the right to buy. During the 2014 Hong Kong protest, the umbrella has become a symbol of the pro- democratic movement and used as tool to conceal from surveillance. As a result, Taobao and Aliexpress refused to sell umbrellas to Hong Kong customers for the stabilization of Chinese authoritarian reign.[^6]  
 
-
-
-
+#### The new denunciation rallies
 
 internet denunciation rallies  
 ‘5 cents’--pro China policy, hostility towards western and hong kong leftist  
