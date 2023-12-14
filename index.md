@@ -2,7 +2,7 @@
 ![demo image](assets/img/matthew-guay-Q7wDdmgCBFg-unsplash.jpg)
 Keywords: digital identities, existential risks, China, The Great Firewall, way of life, censorship, surveillance
 ## Introduction
-In recent years, Chinese social media and e-commerce platforms such as Tiktok and Temu have gained a lot of popularity. Although the international tech companies still occupied most of the environment of the internet, the influence of Chinese companies gradually increase. On the other hand, western companies like eBay failed to profit from China's users[^1]. According to Enrique, Tiktok and Temu ranked the first and the sixth most downloaded apps which contributed to 50 million and 24 million downloads in September 2023[^2]. The popularity of Chinese apps have raised a lot of concern to the public due to their policies and usages may compromise the cybersecurity of individuals and even national security. Misinformation in Tiktok is extremely common as deepfake and editing technologies become easily accessible, and with its 1.6 billion active users, the risk of manipulation of the public is a solid and imminent threat[^3].
+In recent years, Chinese social media and e-commerce platforms such as Tiktok and Temu have gained a lot of popularity. Although the international tech companies still occupied most of the environment of the internet, the influence of Chinese companies gradually increase. On the other hand, western companies like eBay failed to profit from China's users[^1]. According to Enrique Dans, Tiktok and Temu ranked the first and the sixth most downloaded apps which contributed to 50 million and 24 million downloads in September 2023[^2]. The popularity of Chinese apps have raised a lot of concern to the public due to their policies and usages may compromise the cybersecurity of individuals and even national security. Misinformation in Tiktok is extremely common as deepfake and editing technologies become easily accessible, and with its 1.6 billion active users, the risk of manipulation of the public is a solid and imminent threat[^3].
 
 I will investigate China's one of the territory that is excluded from China's Great Firewall and have full access to the internet, Hong Kong. After the 2019 protests, China has strengthened the control of Hong Kong which included the usage of the internet to stablise Hong Kong's civil unrest. As Hong Kong is a previous British colony, this can be a benchmark of what can happen if China uses the internet as a tool to fulfil its goal.
 
@@ -12,6 +12,8 @@ I will investigate China's one of the territory that is excluded from China's Gr
 
 ### China's The Great Firewall
 
+According to Shawn Healy 
+https://www.socialstudies.org/system/files/publications/articles/se_7103158.pdf
 
 
 
@@ -63,7 +65,7 @@ As the portion of Chinese apps gradully increasing for the users internet usage,
 It is a controversal topic about whether Internet needs a total freedom environment or a strict one like China's. In recent years, we can see how the internet is used to spread hate and misinformation such as antisemitism. Even though the controlled China's internet and its apps are in heavy censorship and surveillance, the environment seems to be more peaceful or at least one that have unified point of view.  
 
 In an imaginative view, China's Internet Great Wall is out of bound and expanded to the home front of western nations. Whether it is in good intention or not, it will affect the way of life of everyone
-![demo image](assets/img/Great_wall_of_china.jpg)
+<img src="assets/img/Great_wall_of_china.jpg" alt="drawing" width="1000"/>
 
 Reccomendation
 In addition, the only important question is that can we trust China to harness the power of the internet and not exploit it? Google, Facebook are American companies and have very similar ethics and culture to all western civilizations. Although they technically have all the personal informations and algorithms, their objectives are mostly  promoting a products. But can we ensure China as a collectivism country that emphasize on stability rather than privacy is still a ongoing debate.  
