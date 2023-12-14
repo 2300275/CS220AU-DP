@@ -12,7 +12,7 @@ I will investigate China's one of the territory that is excluded from China's Gr
 
 ### China's The Great Firewall
 
-According to Shawn Healy 
+Based on the study of Shawn Healy, the Great Firewall of China is an internet censorship system combined the usages of both governmental and private assets which uses 9 state-owned companies to manually blocking websites that are deemed to be violated the principle of the Chinese socialist morality. Various types of websites are blocked including pornographic and websites that spread hate speech but also for websites that mentioned about sensitive history, homosexuality and news publication[^4].
 https://www.socialstudies.org/system/files/publications/articles/se_7103158.pdf
 
 
@@ -86,8 +86,11 @@ There are two kinds of option in this environment, one is to embrace and trust C
 [^2]: Enrique Dans 2023 Should we be worried about the popularity of Chinese apps in the West? Published in 
 [Medium](https://medium.com/enrique-dans/should-we-be-worried-about-the-popularity-of-chinese-apps-in-the-west-15f2035820f9#:~:text=AppFigures'%20global%20ranking%20of%20the,holds%20the%20number%20one%20spot.)
 
-[^3]:Tiffany Hsu 2022 Worries Grow That TikTok Is New Home for Manipulated Video and Photos Published in 
+[^3]: Tiffany Hsu 2022 Worries Grow That TikTok Is New Home for Manipulated Video and Photos Published in 
 [New York Times](https://www.nytimes.com/2022/11/04/technology/tiktok-deepfakes-disinformation.html)
+
+[^4]: Shawn Healy 2007 The great firewall of China. Published in 
+[National Council for the Social Studies](https://www.socialstudies.org/system/files/publications/articles/se_7103158.pdf)
 
 
 
