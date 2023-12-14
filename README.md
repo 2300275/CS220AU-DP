@@ -24,7 +24,8 @@ Instructions on using this GitHub repository as a template for your assignment w
 ## Tasks
 1. Find a narrower focus in my topic
 2. Find some journal articles and news to read and understand the topic
-3. Find some attractive and professional images and videos for appearance and explanations  
+3. Find some attractive and professional images s for appearance 
+4. Find some attractive and professional videos explanations 
 
 ## Tools
 1. https://quillbot.com/grammar-check  
