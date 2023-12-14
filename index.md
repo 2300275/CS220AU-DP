@@ -23,9 +23,7 @@ Furthermore, the video above created by SCMP stated that foreign websites such a
 ### Case study: Hong Kong as the frontline of China’s internet interference  
 Hong Kong is a unique location that inherited democratic system and ideology as the United Kingdom’s colony before 1997. It is one of the few areas in China territory that is not included inside China’s Great FireWall that has limits of speech and heavy surveillance. 
 
-
-
-Therefore, the environment of Hong Kong’s internet was the same as western nations that enjoyed a high degree of freedom of speech. This resulted in internet culture that is a mixture of Chinese culture with the usage of western online platforms including Facebook, Instagram.  
+Therefore, the environment of Hong Kong’s internet was the same as western nations that enjoyed a high degree of freedom of speech. This resulted in internet culture that is a mixture of Chinese culture with the usage of western online platforms including Facebook, Instagram and also local social medias and forums such as 9GAG and HKGolden.
 
 Before Chinese tech giants stepped into the global market, Hong Kong was their main semi-foreign audience. Taobao was a successful shopping platform which  
 
