@@ -23,14 +23,8 @@ Furthermore, the video above created by SCMP stated that foreign websites such a
 ### Case study: Hong Kong as the frontline of China’s internet interference  
 Hong Kong is a unique location that inherited democratic system and ideology as the United Kingdom’s colony before 1997. It is one of the few areas in China territory that is not included inside China’s Great FireWall that has limits of speech and heavy surveillance. Therefore, the environment of Hong Kong’s internet was the same as western nations that enjoyed a high degree of freedom of speech. This resulted in internet culture that is a mixture of Chinese culture with the usage of western online platforms including Facebook, Instagram and also local social medias and forums such as 9GAG and HKGolden.
 
-After Taobao is founded in 2003, it is accessible to all Chinese-speaking regions and as a result HOng Kong became one of its customer base. After the implementation of Alipay, a electric payment app using QR code technology, Taobao defeated Ebay in 2005 and became the largest online shopping platform in China[^5]. This allows Hong Kong people to enjoy domestic products from heavy machinary to toothbrush with a low cost and high accessibility.
+After Taobao is founded in 2003, it is accessible to all Chinese-speaking regions and as a result Hong Kong became one of its customer base. After the implementation of Alipay, a electric payment app using QR code technology, Taobao defeated Ebay and became the largest online shopping platform in China [^5]. This allows Hong Kong people to enjoy domestic products from heavy machinary to toothbrush with a low cost and high accessibility.
 
-
-Other than that, although the mainland has blockage of internet to the outside, VPN has become relatively cheap and easy to access.  
-
-GOOD THINGS  
-
-Enjoy domestic products with low price  
 
 HOWEVER  
 
