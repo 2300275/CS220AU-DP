@@ -21,15 +21,16 @@ Based on the study of Shawn Healy, the Great Firewall of China is an internet ce
 Furthermore, the video above created by SCMP stated that foreign websites such as Facebook and NewYork TImes are blocked. Instead, alternatives are created for Chinese netizens to access but even these home-bred apps and websites have strict surveillance and control by adopting the real-name system. ID number, phone number and real name are required to register any accounts for these websites. Because of that, privacy in Chinese internet does not exist and "big brother' is always watching from behind.
 
 ### Case study: Hong Kong as the frontline of China’s internet interference  
-Hong Kong is a unique location that inherited democratic system and ideology as the United Kingdom’s colony before 1997. It is one of the few areas in China territory that is not included inside China’s Great FireWall that has limits of speech and heavy surveillance. Therefore, the environment of Hong Kong’s internet was the same as western nations that enjoyed a high degree of freedom of speech. This resulted in internet culture that is a mixture of Chinese culture with the usage of western online platforms including Facebook, Instagram and also local social medias and forums such as 9GAG and HKGolden.
+Hong Kong is a unique location that inherited democratic system and ideology as the United Kingdom’s colony before 1997. It is one of the few areas in China territory that is not included inside China’s Great FireWall that has limits of speech and heavy surveillance. Therefore, the environment of Hong Kong’s internet was the same as western nations that enjoyed a high degree of freedom of speech. This resulted in internet culture that is a mixture of Chinese culture with the usage of western online platforms including Facebook, Instagram and also local social medias and forums such as 9GAG and HKGolden.  
 
-After Taobao is founded in 2003, it is accessible to all Chinese-speaking regions and as a result Hong Kong became one of its customer base. After the implementation of Alipay, a electric payment app using QR code technology, Taobao defeated Ebay and became the largest online shopping platform in China [^5]. This allows Hong Kong people to enjoy domestic products from heavy machinary to toothbrush with a low cost and high accessibility.
+#### Freedom of choice
+After Taobao is founded in 2003, it is accessible to all Chinese-speaking regions and as a result Hong Kong became one of its customer base. After the implementation of Alipay, a electric payment app using QR code technology, Taobao defeated Ebay and became the largest online shopping platform in China [^5]. This allows Hong Kong people to enjoy domestic products from heavy machinary to toothbrush with a low cost and high accessibility.  
+
+However, the heavy reliant on Taobao has introduced the censorship of Mainland China to Hong Kong in the form of restricting the right to buy. During the 2014 Hong Kong protest, the umbrella has become a symbol of the pro- democratic movement and used as tool to conceal from surveillance. As a result, Taobao and Aliexpress refused to sell umbrellas to Hong Kong customers for the stabilization of Chinese authoritarian reign. [^6]
 
 
-HOWEVER  
 
-Introduce the ‘taboo’ of mainland China  
-such as 2019 protest, disappearance of  
+
 
 internet denunciation rallies  
 ‘5 cents’--pro China policy, hostility towards western and hong kong leftist  
@@ -84,5 +85,7 @@ There are two kinds of option in this environment, one is to embrace and trust C
 [^5]: Phang Wenxuan, Daisy Mui Hung Kee, Goh Jing Yi, Lim Yee Chang, Yang Zheng Hong, Omar AmirIssue About Taobao for countries other than China Published In
 [IJTHAP](https://ejournal.aibpmjournals.com/index.php/IJTHAP/article/view/594)
 
+[^6]: Tim Adams The big picture: umbrellas shielding democracy in Hong Kong Published In 
+[The Guardian](https://www.theguardian.com/artanddesign/2022/dec/11/the-big-picture-umbrellas-shielding-democracy-in-hong-kong)
 
 
