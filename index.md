@@ -4,7 +4,7 @@ Keywords: digital identities, existential risks, China, The Great Firewall, way 
 ## Introduction
 In recent years, Chinese social media and e-commerce platforms such as Tiktok and Temu have gained a lot of popularity. Although the western tech companies still occupied most of the online landscape, the tide might turn. The influence of Chinese companies are gradually increasing as stated by Enrique Dans, Tiktok and Temu ranked the first and the sixth most downloaded apps which contributed to 50 million and 24 million downloads in September 2023[^2]. On the other hand, western companies like eBay failed to profit from China's users[^1]. The popularity of Chinese apps have raised a lot of concern to the public due to their policies and usages may compromise the cybersecurity of individuals and even national security. Misinformation in Tiktok is extremely common as deepfake and editing technologies become easily accessible, and with its 1.6 billion active users, the risk of manipulation of the public is a tangible and imminent threat[^3].
 
-<iframe width="1000" height="500" src="https://www.youtube.com/embed/pzPxidiBNJQ?si=f1LBtDb3P1jebIsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 I will investigate China's one of the territory that is excluded from China's Great Firewall and have full access to the internet, Hong Kong. After the 2019 protests, China has strengthened the control of Hong Kong which included the usage of the internet to stablise Hong Kong's civil unrest. As Hong Kong is a previous British colony, this can be a benchmark of what can happen if China uses the internet as a tool to fulfil its goal.
 
@@ -13,6 +13,8 @@ I will investigate China's one of the territory that is excluded from China's Gr
 ## Main body
 
 ### China's The Great Firewall
+
+<iframe width="1000" height="500" src="https://www.youtube.com/embed/pzPxidiBNJQ?si=f1LBtDb3P1jebIsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Based on the study of Shawn Healy, the Great Firewall of China is an internet censorship system combined the usages of both governmental and private assets which uses 9 state-owned companies to manually blocking websites that are deemed to be violated the principle of the Chinese socialist morality. Various types of websites are blocked including pornographic and websites that spread hate speech but also for websites that mentioned about sensitive history, homosexuality and news publication[^4]. In addition, self-censorship policy is introduced to ensure private-owned websites to be accountable for violations.
   
