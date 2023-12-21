@@ -30,6 +30,8 @@ However, the heavy reliant on Taobao has introduced the censorship of Mainland C
 
 #### The new denunciation rallies
 
+The affect of booming Chinese internet's services development not only grant Chinese civilian's access to the walled internet but also easier access to the outside world. 
+
 internet denunciation rallies  
 ‘5 cents’--pro China policy, hostility towards western and hong kong leftist  
 Promote hatred and hostile environment  
