@@ -37,9 +37,10 @@ However, this led to a cultural conflict between mainland and Hong Kong on the i
 
 Although both are zealots praising China’s government, little pinks are the main issue in the context of Hong Kong’s internet. Unlike 50 cents party which focuses on China’s walled internet, little pinks are ordinary civilians who have no restriction from duty that are more aggressive and hostile to other groups and even nations. 
 
+<img src="assets/img/yahoonews1.PNG" alt="drawing" width="1000"/>
+
 As seen in the above Yahoo News’ post on Facebook which is about Japan's recent earthquake, there are commentators saying it is karma for Japan[^8]. 
 In some way, little pinks are similar to the denunciation rallies in the Maoist China that are both loose cannons supporting China’s ruling party without any protocols which result in the most damaging influence to Hong Kong’s internet harmony. In addition, this kind of behavior creates a hostile environment on the internet for all users and eliminates rational and multi-perspective discussions, leading to homogeneity and information bubbles on Hong Kong’s internet. 
-
 
 
 2.3freedom of speech restriction  
