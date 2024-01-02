@@ -44,11 +44,10 @@ In some way, little pinks are similar to the denunciation rallies in the Maoist 
 
 
 #### Influence of China's capitol
-Hong Kong national security law  
-Invaded Hong Kong’s internet environment  
 
 Changing Political Economy of the Hong Kong Media  
 https://journals.openedition.org/chinaperspectives/8009  
+self censorship
 Control the media, control in crowd  
 
 
