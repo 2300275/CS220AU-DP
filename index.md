@@ -37,9 +37,9 @@ However, this led to a cultural conflict between mainland and Hong Kong on the i
 
 Although both are zealots praising China’s government, little pinks are the main issue in the context of Hong Kong’s internet. Unlike 50 cents party which focuses on China’s walled internet, little pinks are ordinary civilians who have no restriction from duty that are more aggressive and hostile to other groups and even nations. 
 
+As seen in the above Yahoo News’ post on Facebook which is about Japan's recent earthquake, there are commentators saying it is karma for Japan[^8]. 
+In some way, little pinks are similar to the denunciation rallies in the Maoist China that are both loose cannons supporting China’s ruling party without any protocols which result in the most damaging influence to Hong Kong’s internet harmony. In addition, this kind of behavior creates a hostile environment on the internet for all users and eliminates rational and multi-perspective discussions, leading to homogeneity and information bubbles on Hong Kong’s internet. 
 
-‘give up’ culture  
-‘bai lan’ “lying flat”  
 
 
 2.3freedom of speech restriction  
@@ -63,6 +63,9 @@ Reccomendation
 In addition, the only important question is that can we trust China to harness the power of the internet and not exploit it? Google, Facebook are American companies and have very similar ethics and culture to all western civilizations. Although they technically have all the personal informations and algorithms, their objectives are mostly  promoting a products. But can we ensure China as a collectivism country that emphasize on stability rather than privacy is still a ongoing debate.  
 There are two kinds of option in this environment, one is to embrace and trust China not to use the internet as a tool for its reign or avoid any Chinese apps to ensure your way of life.  
 
+As seen in the Yahoo News’ post on Facebook which is about Japan's recent earthquake, there are commentators saying it is Karma. 
+https://www.facebook.com/YahooHongKongNews/posts/pfbid06j4aFX9w5A8cHXtdsMdko3G7J2SRiQ9RMMjMcCuhzF4atz4CkFKWfwQuCo2chMxyl
+In some way, little pinks are similar to the denunciation rallies in the Maoist China that are both loose cannons supporting China’s ruling party without any protocols which result in the most damaging influence to Hong Kong’s internet harmony. In addition, this kind of behavior creates a hostile environment on the internet for all users and eliminates rational and multi-perspective discussions, leading to homogeneity and information bubbles on Hong Kong’s internet. 
 
 
 
@@ -92,5 +95,8 @@ There are two kinds of option in this environment, one is to embrace and trust C
 
 [^7]: Henry Farrell The Chinese government fakes nearly 450 million social media comments a year. This is why. Published In 
 [WashingtonPost](https://www.washingtonpost.com/news/monkey-cage/wp/2016/05/19/the-chinese-government-fakes-nearly-450-million-social-media-comments-a-year-this-is-why/)
+
+[^8]: Yahoo Hong Kong News Japan Ishikawa earthquake Published In 
+[YahooHongKongNews' Facebook page](https://www.facebook.com/YahooHongKongNews/posts/pfbid06j4aFX9w5A8cHXtdsMdko3G7J2SRiQ9RMMjMcCuhzF4atz4CkFKWfwQuCo2chMxyl)
 
 
