@@ -27,6 +27,7 @@ Your submitted portfolio should include the following components, along with the
 1. https://quillbot.com/grammar-check  
  
 ## Log
+- 2024-01/02 Finished part of the main body in the index.md, only one part left
 - 2023-12/14 Finished part of the main body in the index.md
 - 2023-12/07 Finished the introduction and deleted related stuffs in the index.md
 - 2023-11-30 Finished basic flow of the assignment, still messy though. Need more info for Chinese apps, more acadeimc ones. Checked added images to be copyright free.
