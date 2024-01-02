@@ -43,7 +43,7 @@ As seen in the above Yahoo News’ post on Facebook which is about Japan's recen
 In some way, little pinks are similar to the denunciation rallies in the Maoist China that are both loose cannons supporting China’s ruling party without any protocols which result in the most damaging influence to Hong Kong’s internet harmony. In addition, this kind of behavior creates a hostile environment on the internet for all users and eliminates rational and multi-perspective discussions, leading to homogeneity and information bubbles on Hong Kong’s internet. 
 
 
-2.3freedom of speech restriction  
+#### Influence of China's capitol
 Hong Kong national security law  
 Invaded Hong Kong’s internet environment  
 
