@@ -39,7 +39,7 @@ Although both are zealots praising China’s government, little pinks are the ma
 
 <img src="assets/img/yahoonews1.PNG" alt="drawing" width="1000"/>
 
-As seen in the above Yahoo News’ post on Facebook which is about Japan's recent earthquake, there are commentators saying it is karma for Japan following by other commentators' revolt[^8]. 
+As seen in the above Yahoo News’ post on Facebook which is about Japan's recent earthquake, there are commentators saying it is karma for Japan leading to other commentators' revolt[^8]. 
 In some way, little pinks are similar to the denunciation rallies in the Maoist China that are both loose cannons supporting China’s ruling party without any protocols which result in the most damaging influence to Hong Kong’s internet harmony. In addition, this kind of behavior creates a hostile environment on the internet for all users and eliminates rational and multi-perspective discussions, leading to homogeneity and information bubbles on Hong Kong’s internet. 
 
 
