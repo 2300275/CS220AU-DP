@@ -33,10 +33,10 @@ However, the heavy reliant on Taobao has introduced the censorship of Mainland C
 #### The new denunciation rallies
 
 The affect of booming Chinese internet's services development not only grant Chinese civilian's access to the walled internet but also easier access to the outside world. 
+However, this led to a cultural conflict between mainland and Hong Kong on the internet. The 50 cents party and little pink are both unique pro-China groups that have similar features. According to Henry Farrell, 50 cents party is a paid employee by the Chinese government to propagandize and stablelize the internet environment from any political disturbance using distraction tactics, in the other hand little pink is unpaid civilians that take a pro-China stance with no specific duty like the 50 cents party[^7].
 
-internet denunciation rallies  
-‘5 cents’--pro China policy, hostility towards western and hong kong leftist  
-Promote hatred and hostile environment  
+Although both are zealots praising China’s government, little pinks are the main issue in the context of Hong Kong’s internet. Unlike 50 cents party which focuses on China’s walled internet, little pinks are ordinary civilians who have no restriction from duty that are more aggressive and hostile to other groups and even nations. 
+
 
 ‘give up’ culture  
 ‘bai lan’ “lying flat”  
@@ -89,5 +89,8 @@ There are two kinds of option in this environment, one is to embrace and trust C
 
 [^6]: Tim Adams The big picture: umbrellas shielding democracy in Hong Kong Published In 
 [The Guardian](https://www.theguardian.com/artanddesign/2022/dec/11/the-big-picture-umbrellas-shielding-democracy-in-hong-kong)
+
+[^7]: Henry Farrell The Chinese government fakes nearly 450 million social media comments a year. This is why. Published In 
+[WashingtonPost](https://www.washingtonpost.com/news/monkey-cage/wp/2016/05/19/the-chinese-government-fakes-nearly-450-million-social-media-comments-a-year-this-is-why/)
 
 
