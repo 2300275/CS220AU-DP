@@ -35,11 +35,11 @@ However, the heavy reliant on Taobao has introduced the censorship of Mainland C
 The affect of booming Chinese internet's services development not only grant Chinese civilian's access to the walled internet but also easier access to the outside world. 
 However, this led to a cultural conflict between mainland and Hong Kong on the internet. The 50 cents party and little pink are both unique pro-China groups that have similar features. According to Henry Farrell, 50 cents party is a paid employee by the Chinese government to propagandize and stablelize the internet environment from any political disturbance using distraction tactics, in the other hand little pink is unpaid civilians that take a pro-China stance with no specific duty like the 50 cents party[^7].
 
-Although both are zealots praising China’s government, little pinks are the main issue in the context of Hong Kong’s internet. Unlike 50 cents party which focuses on China’s walled internet, little pinks are ordinary civilians who have no restriction from duty that are more aggressive and hostile to other groups and even nations. 
+Although both are zealots praising China’s government, little pinks are the main issue in the context of Hong Kong’s internet. Unlike 50 cents party which focuses on China’s walled internet, little pinks are ordinary civilians who have no restriction from duty that are more aggressive and hostile to other groups and even nations. In the internet of China, it is a norm to attack and laugh at other nations and opposed groups by netizens such as the recent frequent accidents from Japan are celebrated by Chinese internet users[^8]. This kind of culture from mainland China is clashing with the more pacifist and liberal mindset of Hong Kong's internet users as it has come into Hong Kong.
 
 <img src="assets/img/yahoonews1.PNG" alt="drawing" width="1000"/>
 
-As seen in the above Yahoo News’ post on Facebook which is about Japan's recent earthquake, there are commentators saying it is karma for Japan leading to other commentators' revolt[^8]. 
+As seen in the above Yahoo News’ post on Facebook which is about Japan's earthquake, there are commentators saying it is karma for Japan leading to other commentators' revolt[^9]. 
 In some way, little pinks are similar to the denunciation rallies in the Maoist China that are both loose cannons supporting China’s ruling party without any protocols which result in the most damaging influence to Hong Kong’s internet harmony. In addition, this kind of behavior creates a hostile environment on the internet for all users and eliminates rational and multi-perspective discussions, leading to homogeneity and information bubbles on Hong Kong’s internet. 
 
 
@@ -93,7 +93,10 @@ There are two kinds of option in this environment, one is to embrace and trust C
 [^7]: Henry Farrell The Chinese government fakes nearly 450 million social media comments a year. This is why. Published In 
 [WashingtonPost](https://www.washingtonpost.com/news/monkey-cage/wp/2016/05/19/the-chinese-government-fakes-nearly-450-million-social-media-comments-a-year-this-is-why/)
 
-[^8]: Yahoo Hong Kong News Japan Ishikawa earthquake Published In 
+[^8]: Yahoo Taiwan News Japan Ishikawa earthquake Published In 
+[YahooTaiwanNews ](https://tw.news.yahoo.com/%E7%B4%A0%E8%B3%AA%E5%91%A2-%E6%97%A5%E6%9C%AC7-6%E5%BC%B7%E9%9C%87%E5%BE%8C-%E9%A3%9B%E6%A9%9F%E7%9B%B8%E6%92%9E%E8%B5%B7%E7%81%AB-%E4%B8%AD%E5%9C%8B%E7%B6%B2%E5%8F%8B%E7%AB%9F%E5%96%8A-102507075.html)
+
+[^9]: Yahoo Hong Kong News Japan Ishikawa earthquake Published In 
 [YahooHongKongNews' Facebook page](https://www.facebook.com/YahooHongKongNews/posts/pfbid06j4aFX9w5A8cHXtdsMdko3G7J2SRiQ9RMMjMcCuhzF4atz4CkFKWfwQuCo2chMxyl)
 
 
