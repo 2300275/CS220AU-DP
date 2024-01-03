@@ -48,8 +48,7 @@ In some way, little pinks are similar to the denunciation rallies in the Maoist 
 #### Influence of China's capitol
 
 The observation of Francis L. F. Lee concludes that although Hong Kong's medias have sucessfully converted its
-While Hong Kong's medias were able to convert its medium into the internet using Facebook, websites and alternative medias, the influence of China's capitol is obvious. According to Francis L. F. Lee, 15 shareholders of main medias from different period after 1997 have relationship with the Chinese communist party or government which lead to self censorship and introducing the dilemma between professionalsm or political correctness. 
-[^10]
+While Hong Kong's medias were able to convert its medium into the internet using Facebook, websites and alternative medias, the influence of China's capitol is obvious. According to Francis L. F. Lee, 15 shareholders of main medias from different period after 1997 have relationship with the Chinese communist party or government which lead to self censorship and introducing the dilemma between professionalsm or political correctness[^10]. As majority of Hong Kong medias are composed of China's assets, the perspective from medias are very likely to be biased or even worse they are manipulated by institution. For further control of the medias in Hong Kong, investments are easily pull out from any medias that have point of views that are at risk of destabilizing China's reign.
 
 
 Changing Political Economy of the Hong Kong Media  
@@ -62,6 +61,8 @@ Control the media, control in crowd
 As the portion of Chinese apps gradully increasing for the users internet usage, there are greater chance of surveillance and even manipulation. https://www.theguardian.com/world/2023/sep/28/chinas-manipulation-of-media-threatens-global-freedoms-says-us-report  
 
 It is a controversal topic about whether Internet needs a total freedom environment or a strict one like China's. In recent years, we can see how the internet is used to spread hate and misinformation such as antisemitism. Even though the controlled China's internet and its apps are in heavy censorship and surveillance, the environment seems to be more peaceful or at least one that have unified point of view.  Culture is one of the major factors of why the internet of China and the west are completely different
+
+SCMP
 
 In an imaginative view, China's Internet Great Wall is out of bound and expanded to the home front of western nations. Whether it is in good intention or not, it will affect the way of life of everyone
 <img src="assets/img/Great_wall_of_china.jpg" alt="drawing" width="1000"/>
