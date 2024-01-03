@@ -35,7 +35,7 @@ However, the heavy reliant on Taobao has introduced the censorship of Mainland C
 The affect of booming Chinese internet's services development not only grant Chinese civilian's access to the walled internet but also easier access to the outside world. 
 However, this led to a cultural conflict between mainland and Hong Kong on the internet. The 50 cents party and little pink are both unique pro-China groups that have similar features. According to Henry Farrell, 50 cents party is a paid employee by the Chinese government to propagandize and stablelize the internet environment from any political disturbance using distraction tactics, in the other hand little pink is unpaid civilians that take a pro-China stance with no specific duty like the 50 cents party[^7].
 
-Although both are zealots praising China’s government, little pinks are the main issue in the context of Hong Kong’s internet. Unlike 50 cents party which focuses on China’s walled internet, little pinks are ordinary civilians who have no restriction from duty that are more aggressive and hostile to other groups and even nations. In the internet of China, it is a norm to attack and laugh at other nations and opposed groups by netizens such as the recent frequent accidents from Japan are celebrated by Chinese internet users[^8]. This kind of culture from mainland China is clashing with the more pacifist and liberal mindset of Hong Kong's internet users as it has come into Hong Kong.
+Although both are zealots praising China’s government, little pinks are the main issue in the context of Hong Kong’s internet. Unlike 50 cents party which focuses on China’s walled internet, little pinks are ordinary civilians who have no restriction from duty that are more aggressive and hostile to other groups and even nations. In the internet of China, it is a norm to attack and laugh at other nations and opposed groups by netizens such as the recent frequent accidents from Japan are celebrated by Chinese internet users[^8]. This kind of culture from mainland China is clashing with the more pacifist and liberal mindset of Hong Kong's internet users as it has come into Hong Kong. 
 
 
 <img src="assets/img/yahoonews1.PNG" alt="drawing" width="1000"/>
@@ -47,18 +47,11 @@ In some way, little pinks are similar to the denunciation rallies in the Maoist 
 
 #### Influence of China's capitol
 
-The observation of Francis L. F. Lee concludes that although Hong Kong's medias have sucessfully converted its
-While Hong Kong's medias were able to convert its medium into the internet using Facebook, websites and alternative medias, the influence of China's capitol is obvious. According to Francis L. F. Lee, 15 shareholders of main medias from different period after 1997 have relationship with the Chinese communist party or government which lead to self censorship and introducing the dilemma between professionalsm or political correctness[^10]. As majority of Hong Kong medias are composed of China's assets, the perspective from medias are very likely to be biased or even worse they are manipulated by institution. For further control of the medias in Hong Kong, investments are easily pull out from any medias that have point of views that are at risk of destabilizing China's reign.
-
-
-Changing Political Economy of the Hong Kong Media  
-https://journals.openedition.org/chinaperspectives/8009  
-self censorship
-Control the media, control in crowd  
+The economic assimilation between China and Hong Kong intensified the assimilation of the control of medias in the internet. While Hong Kong's medias were able to convert its medium into the internet using social medias, websites and alternative medias, the investment of China's capitol was obvious. According to Francis L. F. Lee, 15 shareholders of main medias from different period after 1997 have relationship with the Chinese communist party or government which lead to self censorship and introducing the dilemma between professionalsm or political correctness[^10]. As majority of Hong Kong medias are composed of China's assets, the perspective from medias are very likely to be biased or even worse they are manipulated by institution. For further control of the medias in Hong Kong, investments are easily pull out from any medias that have point of views that are at risk of destabilizing China's reign. Apple Daily is one of the result of transgression of China's principle with its pro democratic altitude.[^11]
 
 
 ### Discussion
-As the portion of Chinese apps gradully increasing for the users internet usage, there are greater chance of surveillance and even manipulation. https://www.theguardian.com/world/2023/sep/28/chinas-manipulation-of-media-threatens-global-freedoms-says-us-report  
+As the portion of Chinese apps gradully increasing for the users internet usage, there are greater chance of surveillance and even manipulation[^12]. 
 
 It is a controversal topic about whether Internet needs a total freedom environment or a strict one like China's. In recent years, we can see how the internet is used to spread hate and misinformation such as antisemitism. Even though the controlled China's internet and its apps are in heavy censorship and surveillance, the environment seems to be more peaceful or at least one that have unified point of view.  Culture is one of the major factors of why the internet of China and the west are completely different
 
@@ -109,5 +102,12 @@ There are two kinds of option in this environment, one is to embrace and trust C
 
 [^10]: Francis L. F. Lee Changing Political Economy of the Hong Kong Media Published In 
 [China Perspectives](https://journals.openedition.org/chinaperspectives/8009)
+
+[^11]: BBC Apple Daily: Hong Kong pro-democracy paper announces closure Published In 
+[BBC News](https://www.bbc.com/news/world-asia-china-57578926)
+
+[^12]: The Guardian: China’s manipulation of media threatens global freedoms, says US report Published In 
+[The Guardian](https://www.theguardian.com/world/2023/sep/28/chinas-manipulation-of-media-threatens-global-freedoms-says-us-report )
+ 
 
 
