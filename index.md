@@ -37,13 +37,17 @@ However, this led to a cultural conflict between mainland and Hong Kong on the i
 
 Although both are zealots praising China’s government, little pinks are the main issue in the context of Hong Kong’s internet. Unlike 50 cents party which focuses on China’s walled internet, little pinks are ordinary civilians who have no restriction from duty that are more aggressive and hostile to other groups and even nations. In the internet of China, it is a norm to attack and laugh at other nations and opposed groups by netizens such as the recent frequent accidents from Japan are celebrated by Chinese internet users[^8]. This kind of culture from mainland China is clashing with the more pacifist and liberal mindset of Hong Kong's internet users as it has come into Hong Kong.
 
+
 <img src="assets/img/yahoonews1.PNG" alt="drawing" width="1000"/>
+
 
 As seen in the above Yahoo News’ post on Facebook which is about Japan's earthquake, there are commentators saying it is karma for Japan leading to other commentators' revolt[^9]. 
 In some way, little pinks are similar to the denunciation rallies in the Maoist China that are both loose cannons supporting China’s ruling party without any protocols which result in the most damaging influence to Hong Kong’s internet harmony. In addition, this kind of behavior creates a hostile environment on the internet for all users and eliminates rational and multi-perspective discussions, leading to homogeneity and information bubbles on Hong Kong’s internet. 
 
 
 #### Influence of China's capitol
+
+The observation of Francis L. F. Lee concludes that although Hong Kong's medias have sucessfully converted its
 
 Changing Political Economy of the Hong Kong Media  
 https://journals.openedition.org/chinaperspectives/8009  
@@ -98,5 +102,8 @@ There are two kinds of option in this environment, one is to embrace and trust C
 
 [^9]: Yahoo Hong Kong News Japan Ishikawa earthquake Published In 
 [YahooHongKongNews' Facebook page](https://www.facebook.com/YahooHongKongNews/posts/pfbid06j4aFX9w5A8cHXtdsMdko3G7J2SRiQ9RMMjMcCuhzF4atz4CkFKWfwQuCo2chMxyl)
+
+[^10]: Francis L. F. Lee Changing Political Economy of the Hong Kong Media Published In 
+[China Perspectives](https://journals.openedition.org/chinaperspectives/8009)
 
 
