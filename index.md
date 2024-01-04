@@ -51,7 +51,7 @@ The economic assimilation between China and Hong Kong intensified the assimilati
 
 
 ### Discussion
-As the portion of Chinese apps gradully increasing for the users internet usage, there are greater chance of surveillance and even manipulation[^12]. There is not totally accurate prediction whether China's tech products and capital will or will not be 
+With China's rapidly developing internet technology and booming economy (2nd biggest economy to be exact), China has the capability to perform surveillance and even manipulation to not only their internal internet but also the internet that is outside of the Great Firewall[^12]. Furthermore, there is no totally accurate prediction whether China's tech products and capital will or will not be compromising western companies and market. However, if China did succeed in occupying most of the internet of the free world, the internet of western countries may be a lot damper, oppressed and even hostile considering the scenario of Hong Kong mentioned above.
 
 
 It is a controversal topic about whether Internet needs a total freedom environment or a strict one like China's. In recent years, we can see how the internet is used to spread hate and misinformation such as antisemitism. Even though the controlled China's internet and its apps are in heavy censorship and surveillance, the environment seems to be more peaceful or at least one that have unified point of view.  Culture is one of the major factors of why the internet of China and the west are completely different
