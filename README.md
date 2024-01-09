@@ -28,7 +28,7 @@ Your submitted portfolio should include the following components, along with the
 1. https://quillbot.com/grammar-check  
  
 ## Log
-- 2024-01-09 Re-edited and added what Kriss has suggested
+- 2024-01-09 Re-edited and added what Kriss has suggested (partially only, wait for my finger cuts to heal some more)
 - 2024-01-04 Completed the main body in the index.md
 - 2024-01-02 Finished part of the main body in the index.md, only one part left
 - 2023-12-14 Finished part of the main body in the index.md
