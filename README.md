@@ -19,9 +19,10 @@ Your submitted portfolio should include the following components, along with the
 
 
 ## Tasks
-1. Find some journal articles and news to read and understand the topic
-2. Find some attractive and professional images for appearance 
-3. Find some attractive and professional videos explanations 
+1. Paraphase the writings
+2. Make a conclusion
+3. Find some attractive and professional images for appearance 
+4. Find some attractive and professional videos explanations 
 
 ## Tools
 1. https://quillbot.com/grammar-check  
