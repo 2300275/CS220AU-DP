@@ -38,11 +38,14 @@ Using the marking rubric, I've assessed my own progress: <!-- move the symbols i
 
 | Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
 |-----------|:---:|:---:|:---:|:---:|:---:|
-| 1.1       |     |     |     |     |     |
+| 1.1       |     |     |     |  o  |     |
 | 1.2       |     |     |     |  o  |     |
-| 2.1       |     |     |  o  |     |     |
+| 2.1       |     |     |     |  o  |     |
 | 2.2       |     |     |     |  o  |     |
-| 3.1       |     |  o  |     |     |     |
+| 3.1       |     |     |     |  o  |     |
+I do think my assignment does a good job to relate existential risks with things that are related to my nationality but also most of the possible readers. This actually enables me to have a better understanding of the topic and proceed to investigate for more complicated issues of the topic. Examples and references are sufficient in my opinion and with good images are used to make the style be more professional. Both statistics and philosophical representation are used to explain more serious of the matter is and ensuring more readers can easier to understand the topic and content. 
+
+However, time constraint is a challenging part of this assignment as I have less time than I expected. Therefore, some arguments lack strong supports and many of the writings are like puzzles that need to be reorganised. 
 
 ## Peer-assessment
 Another student in my group provided feedback on my work as follows: 
