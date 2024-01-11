@@ -37,7 +37,7 @@ However, this led to a cultural conflict between mainland and Hong Kong on the i
 Although both are zealots praising China’s government, little pinks are the main issue in the context of Hong Kong’s internet. Unlike 50 cents party which focuses on China’s walled internet, little pinks are ordinary civilians who have no restriction from duty that are more aggressive and hostile to other groups and even nations. In the internet of China, it is allowed to attack and laugh at other nations and opposed groups by netizens such as the recent frequent accidents from Japan are celebrated by Chinese internet users[^8]. This kind of culture from mainland China is clashing with the more pacifist and liberal mindset of Hong Kong's internet users as it has come into Hong Kong. 
 
 
-<img src="assets/img/yahoonews2.PNG" alt="drawing" width="1000"/>
+<img src="assets/img/yahoonews2.png" alt="drawing" width="1000"/>
 
 
 As seen in the above Yahoo News’ post on Facebook which is about Japan's earthquake, there are commentators saying it is karma for Japan leading to other commentators' revolt[^9]. 
