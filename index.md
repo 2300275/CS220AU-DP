@@ -14,8 +14,6 @@ I will investigate Hong Kong which is one of the only few Chinese territories ex
 
 ### China's The Great Firewall
 
-<iframe width="1000" height="500" src="https://www.youtube.com/embed/pzPxidiBNJQ?si=f1LBtDb3P1jebIsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 Based on the study of Shawn Healy, the Great Firewall of China is an internet censorship system combined the usages of both governmental and private assets which uses 9 state-owned companies to manually blocking websites that are deemed to be violated the principle of the Chinese socialist morality. Various types of websites are blocked including pornographic and websites that spread hate speech but also for websites that mentioned about sensitive history, homosexuality and news publication[^4]. In addition, self-censorship policy is introduced to ensure private-owned websites to be accountable for violations.
   
 <iframe width="1000" height="500" src="https://www.youtube.com/embed/ajR9J9eoq34?si=hJQBMb5zhjUqFEIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
