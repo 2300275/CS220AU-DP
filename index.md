@@ -14,8 +14,9 @@ I will investigate Hong Kong which is one of the only few Chinese territories ex
 
 ### China's The Great Firewall
 
-Based on the study of Shawn Healy, the Great Firewall of China is an internet censorship system combined the usages of both governmental and private assets. The Great Firewall uses 9 state-owned companies to manually blocking websites that are deemed to be violated the principle of the Chinese socialist morality. Various types of websites are blocked including pornographic and websites that spread hate speech but also for websites that mentioned about sensitive history, homosexuality and news publication[^4]. In addition, self-censorship policy is introduced to ensure private-owned websites to be accountable for violations.
-  
+Based on the study of Shawn Healy, the Great Firewall of China is an internet censorship system combined the usages of both governmental and private assets. The Great Firewall uses 9 state-owned companies to manually blocking websites that are deemed to be violated the principle of the Chinese socialist morality. Various types of websites are blocked including pornographic and websites that spread hate speech but also for websites that mentioned about sensitive history, homosexuality and news publication[^4]. In addition, self-censorship policy is introduced to ensure private-owned websites to be accountable for violations.  
+
+The following is a YouTube video created by SCMP to introduce the basic function of the Great Firewall:  
 <iframe width="1000" height="500" src="https://www.youtube.com/embed/ajR9J9eoq34?si=hJQBMb5zhjUqFEIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
 Furthermore, the video above created by SCMP stated that foreign websites such as Facebook and NewYork TImes are blocked. Instead, alternatives are created for Chinese netizens to access but even these home-bred apps and websites have strict surveillance and control by adopting the real-name system. ID number, phone number and real name are required to register any accounts for these websites. Because of that, privacy in Chinese internet does not exist and "big brother' is always watching from behind.
