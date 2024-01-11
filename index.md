@@ -62,7 +62,7 @@ There are two kinds of option in this environment, one is to embrace and trust C
 
 
 ## Conclusion
-I have introduced the threat of the Chinese influence in the internet of the West that may have the potential to replace the companies in the West. I provided the scenario of Hong Kong with similar culture and society as the West that is in heavy influence of China in order to showcase the effect of Chinese internet influence in the West. Then I discussed if Chinese way of internet and the Western way of internet difference with both of them having their own reasons to be different from each other. Finally I offered a suggestion for you whether to trust or not to trust China for the coming future of information era.
+I have introduced the threat of the Chinese influence in the internet of the West that may have the potential to replace the companies in the West. I provided the scenario of Hong Kong with similar culture and society as the West that is in heavy influence of China in order to showcase the effect of Chinese internet influence in the West. Then I discussed if Chinese way of internet and the Western way of internet difference with both of them having their own reasons to be different from each other. Finally I offered a suggestion for you whether to trust or not to trust China for the coming future of information age.
 
 
 ##Reference  
