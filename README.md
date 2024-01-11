@@ -1,7 +1,7 @@
 # CS220AU Digital Portfolio Template
 
 ## Overview
-The goal of this GitHub repository is to serves as a template for the [CS220AU](https://navigatingthedigitalworld.com/docs/cs220au) assignment. The assignment goal is to investigate China's internet influence to be  It demonstrates minimalistic approaches to:
+The goal of this GitHub repository is to deliver the assignment [CS220AU](https://navigatingthedigitalworld.com/docs/cs220au) from student 2300275. It provides:
 
 - project management using this `README.md` file, organized under the Overview, Tasks, and Log headings
 - web hosting through [GitHub Pages](https://pages.github.com/)
@@ -11,11 +11,11 @@ The goal of this GitHub repository is to serves as a template for the [CS220AU](
 
 
 ### Portfolio Items
-Your submitted portfolio should include the following components, along with their respective contribution to your overall mark:
+Here are the components of my portfolio and explanation of each function:
 
 1. **website** explores your chosen research question across one or multiple webpages
 2. **self- and peer-assessment** utilizes the `assessment.md` file
-3. **portfolio overview** provides a succinct description of your portfolio, along with a list of tasks to do (Tasks) and those already completed (Log) in this `README.md` file
+3. **portfolio overview** provides a succinct description of my portfolio, along with a list of tasks to do (Tasks) and those already completed (Log) in this `README.md` file
 
 
 ## Tasks
