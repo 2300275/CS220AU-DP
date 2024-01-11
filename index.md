@@ -31,7 +31,7 @@ However, the heavy reliant on Taobao has introduced the censorship of Mainland C
 
 #### The new denunciation rallies
 
-The affect of booming Chinese internet's services development not only grant Chinese civilian's access to the walled internet but also easier access to the outside world. 
+The result of the booming Chinese technology development not only makes the walled internet easily accessible to Chinese civilians but enable them to visit the outside internet by VPN. 
 However, this led to a cultural conflict between mainland and Hong Kong on the internet. The 50 cents party and little pink are both unique pro-China groups that have similar features. According to Henry Farrell, 50 cents party is a paid employee by the Chinese government to propagandize and stablelize the internet environment from any political disturbance using distraction tactics, in the other hand little pink is unpaid civilians that take a pro-China stance with no specific duty like the 50 cents party[^7].
 
 Although both are zealots praising China’s government, little pinks are the main issue in the context of Hong Kong’s internet. Unlike 50 cents party which focuses on China’s walled internet, little pinks are ordinary civilians who have no restriction from duty that are more aggressive and hostile to other groups and even nations. In the internet of China, it is a norm to attack and laugh at other nations and opposed groups by netizens such as the recent frequent accidents from Japan are celebrated by Chinese internet users[^8]. This kind of culture from mainland China is clashing with the more pacifist and liberal mindset of Hong Kong's internet users as it has come into Hong Kong. 
