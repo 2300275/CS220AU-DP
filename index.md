@@ -61,11 +61,8 @@ In addition, the only important question is that can we trust China to harness t
 There are two kinds of option in this environment, one is to embrace and trust China not to use the internet as a tool for its reign or avoid any Chinese apps to ensure your way of life.  
 
 
-
-
-
 ## Conclusion
-
+I have introduced the threat of the Chinese influence in the internet of the West that may have the potential to replace the companies in the West. I provided the scenario of Hong Kong with similar culture and society as the West that is in heavy influence of China in order to showcase the effect of Chinese internet influence in the West. Then I discussed if Chinese way of internet and the Western way of internet difference with both of them having their own reasons to be different from each other. Finally I offered a suggestion for you whether to trust or not to trust China for the coming future of information era.
 
 
 ##Reference  
